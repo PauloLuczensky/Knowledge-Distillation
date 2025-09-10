@@ -12,11 +12,8 @@ KNOWLEDGE-DISTILLATION
 │   │   ├── train/               # imagens de treino
 │   │   ├── val/                 # imagens de validação
 │   │   └── test/                # imagens de teste
-│   │       ├── healthy
-│   │       ├── leaf blight
-│   │       ├── leaf curl
-│   │       ├── septoria leaf spot
-│   │       └── verticillium wilt
+│   │       ├── healthy     
+│   │       
 ├── yolov5/                      # implementação do YOLOv5
 ├── kd_pipeline.py               # script principal do pipeline
 ├── val.py                       # script auxiliar de validação
