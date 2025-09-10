@@ -1,0 +1,5 @@
+train: /home/paulo/cloudmatize/Knowledge-Distillation/tomato_yolo/images/train
+val: /home/paulo/cloudmatize/Knowledge-Distillation/tomato_yolo/images/val
+test: /home/paulo/cloudmatize/Knowledge-Distillation/tomato_yolo/images/test
+nc: 5
+names: ['healthy', 'leaf blight', 'leaf curl', 'septoria leaf spot', 'verticillium wilt']

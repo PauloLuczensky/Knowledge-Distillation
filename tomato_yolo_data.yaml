@@ -1,0 +1,6 @@
+
+train: tomato_yolo/images/train
+val: tomato_yolo/images/val
+test: tomato_yolo/images/test
+nc: 1
+names: ['healthy']
